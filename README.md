@@ -17,4 +17,4 @@ Design and develop methods for local heat islands detection to support city plan
 Understand basics of RS/EO/GI knowledge
 Modify spatial data
 Understand GIS vector and raster data
-Identify RS methods for dummies
+Identify different remote sensing methods
